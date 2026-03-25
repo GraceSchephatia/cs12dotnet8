@@ -6,7 +6,18 @@
 .vs/
 *.user
 *.suo
+
+# Design-time build cache
+.dtbcache.v2
 DesignTimeBuild/
+
+# Visual Studio layout / backup files
+DocumentLayout.backup.json
+
+
+# Build caches
+*.AssemblyInfoInputs.cache
+
 
 # Builds outputs
 bin/
@@ -15,3 +26,8 @@ obj/
 # Logs
 *.log
 
+/Chapter02/.vs/Chapter02/v17/.suo
+/Chapter02/.vs/Chapter02/DesignTimeBuild/.dtbcache.v2
+/Chapter02/.vs/Chapter02/v17/.futdcache.v2
+/Chapter02/.vs/Chapter02/v17/DocumentLayout.backup.json
+/Chapter02/.vs/Chapter02/v17/DocumentLayout.json
