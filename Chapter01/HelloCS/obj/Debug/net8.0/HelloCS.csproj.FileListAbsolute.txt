@@ -7,6 +7,7 @@ C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.Gener
 C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
 C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
 C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.sourcelink.json
 C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.dll
 C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
 C:\MyWorkspace\Code\cs12dotnet8\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.pdb
