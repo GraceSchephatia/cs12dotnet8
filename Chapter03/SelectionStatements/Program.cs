@@ -97,13 +97,9 @@ foreach (Animal? animal in animals)
         Cat wildCat when wildCat.IsDomestic == false => $"The non-domestic cat is named {wildCat.Name}.",
         Cat cat => $"The cat is named {cat.Name}.",
         Spider spider when spider.IsPoisonous => $"The {spider.Name} spider is poisonous. Run!",
-        null => "The animal is null." 
+        null => "The animal is null.",
         _ => $"{animal.Name} is a {animal.GetType().Name}."
     };
     WriteLine($"switch expression: {message}");
 }
-#endregion
-
-#region Understanding iteration statements
-
 #endregion
