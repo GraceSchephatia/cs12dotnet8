@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{F5E9846C-5E2E-4C4C-9DB2-6DFCE7923C57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{F8B4465C-95EF-4ABF-9D80-8F81B514A3FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F5E9846C-5E2E-4C4C-9DB2-6DFCE7923C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E9846C-5E2E-4C4C-9DB2-6DFCE7923C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E9846C-5E2E-4C4C-9DB2-6DFCE7923C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B4465C-95EF-4ABF-9D80-8F81B514A3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B4465C-95EF-4ABF-9D80-8F81B514A3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B4465C-95EF-4ABF-9D80-8F81B514A3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B4465C-95EF-4ABF-9D80-8F81B514A3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
