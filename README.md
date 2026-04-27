@@ -40,5 +40,5 @@ additional notes or small experiments added where helpful.
 - **ASP.NET Core 8**
 - **Blazor**
 - **Entity Framework Core 8**
-- **Visual Studio **
+- **Visual Studio**
 - **Git & GitHub**
