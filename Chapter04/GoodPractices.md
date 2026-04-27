@@ -3,11 +3,12 @@
 This file captures "Good Practice" guidance highlighted in
 *C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals*
 by Mark J. Price, paraphrased and documented for learning purposes.
-``
+
 ---
 
 ## Table of Contents
-[Good Practice 1 - Configuring trace listeners](#good-practice-1---configuring-trace-listeners)
+1. [Good Practice 1 - Configuring trace listeners](#good-practice-1---configuring-trace-listeners)
+
 ## Good Practice 1 - Configuring trace listeners
 **Source:** Mark J. Price, Chapter 4  
 **Practice:** 
