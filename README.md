@@ -42,3 +42,8 @@ additional notes or small experiments added where helpful.
 - **Entity Framework Core 8**
 - **Visual Studio**
 - **Git & GitHub**
+
+---
+## 📝 Notes
+- Code may evolve as I revisit chapters or refine my understanding.
+- Commit history reflects my learning progress rather than polished production code.
