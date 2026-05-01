@@ -18,3 +18,5 @@ by Mark J. Price, paraphrased and documented for learning purposes.
 
 **Why this matters:**
 We SHOULD ONLY set it during debugging and NOT in production, as it reduces performance
+
+## Good Practice 2 -  
